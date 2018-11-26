@@ -1,0 +1,11 @@
+.DS_Store
+/chromedriver
+/chromedriver.exe
+/geckodriver.exe
+build/
+out/
+.idea/
+/uiautomationframework.iml
+src/test/resources/logs
+.gradle
+
